@@ -1,0 +1,38 @@
+{
+    "body": {
+        "rows": [
+            {
+                "id": 1,
+                "name": "首页",
+                "aHref": "http://www.heanes.com/",
+                "aTitle": "首页",
+                "aTarget": "_blank",
+                "imgSrc": "image/nav/about.png",
+                "imgSrcHover": "image/nav/about.png",
+                "imgSrcActive": "image/nav/about.png",
+                "styleClass": "header-nav nav-about",
+                "styleClassHover": "nav-about-hover",
+                "styleClassActive": "nav-about-active",
+                "orderNumber": "1"
+            }
+        ],
+        "total": 1,
+        "postNextPage": {
+            "pageNumber": 2,
+            "pageSize": 20,
+            "pageSinceId": 20
+        }
+    },
+    "status": {
+        "message": "success",
+        "code": 0,
+        "success": true,
+        "errors": null
+    },
+    "APITime": {
+        "requestTime": 1465303795.5184,
+        "requestTimeString": "2016-06-07 20:49:55",
+        "responseTime": 1465303795.5484,
+        "responseTimeString": "2016-06-07 20:49:55"
+    }
+}
